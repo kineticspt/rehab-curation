@@ -1,0 +1,3 @@
+window.onload = function() {
+  console.log("ページが正常に読み込まれました！");
+};
